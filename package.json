@@ -1,0 +1,9 @@
+{
+  "name": "backend-multitenant",
+  "version": "1.0.0",
+  "description": "Backend Multitenant",
+  "main": "server.js",
+  "repository": "https://github.com/amonrreal/backend-multitenant",
+  "author": "Alvaro Monrreal",
+  "license": "MIT"
+}
