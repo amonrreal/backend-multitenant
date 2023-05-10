@@ -12,7 +12,7 @@
     "sequelize": "^6.31.1"
   },
   "scripts": {
-    "serve": "nodemon server.js",
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
